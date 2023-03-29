@@ -6,6 +6,6 @@ spec:
  containers:
  - image: nginx
    name: nginx
- - iamge: almalinux
+ - image: almalinux
    name: sidecar
    
